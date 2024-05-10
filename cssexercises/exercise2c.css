@@ -1,0 +1,20 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DeJavu Sans, sans-serif;
+
+}
+
+#secondline {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdline {
+    font-size: 24px;
+}
+#fourthline {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+
+}
